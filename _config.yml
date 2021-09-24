@@ -9,7 +9,7 @@ name: zsbeta
 description: Studying
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/zsbeta/zsbeta.github.io/blob/master/images/cat.jpg
+avatar: [<img src="{{ site.baseurl }}/images/profile_photo.jpg]
 
 #
 # Flags below are optional
@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/zsbeta
+  github: zsbeta
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: https://stackoverflow.com/users/14729196/zsbeta
+  stackoverflow: users/14729196/zsbeta
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
